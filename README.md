@@ -1,6 +1,12 @@
 
 <h1 align="left">Olá! Eu sou o Breno <img src="./waving-hand.gif" height="30px"></h1> 
 
+<p> 
+  <a href="https://instagram.com/brenonoites" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white&label=Conecte-se comigo!" target="_blank">
+  </a>
+</p>
+
 - 🔥 Desenvolvedor Front-end apaixonado por boas interfaces ✨
 
 - 🔭 Estudante de **Análise e Desenvolvimento de Sistemas** na [FATEC Jundiaí](https://github.com/Rocketseat)
@@ -8,6 +14,7 @@
 - ⚡ Fun fact **Oneye 😜**
 
 ## :rocket: Tecnologias
+
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
