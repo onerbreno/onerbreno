@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 <p>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerbreno&theme=midnight-purple&layout=compact&langs_count=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onerbreno&show_icons=true&&count_private=false&theme=midnight-purple" />
+  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerbreno&theme=midnight-purple&layout=compact&langs_count=8"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=onerbreno&show_icons=true&&count_private=false&theme=midnight-purple" />
 </p>
 
 ## :rocket: Contatos 
