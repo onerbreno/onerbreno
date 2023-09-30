@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá! Eu sou o Breno <img src="./waving-hand.gif" height="30px"></h1> 
+<h1>Olá! Eu sou o Breno <img src="./waving-hand.gif" height="30px"></h1> 
 
 <p> 
   <a href="https://instagram.com/brenonoites" target="_blank">
