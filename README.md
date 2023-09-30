@@ -1,4 +1,5 @@
-# **Olá! Eu sou o Breno**
+
+<h1 align="left">Olá! Eu sou o Breno <img src="./waving-hand.gif" height="30px"></h1> 
 
 - 🔥 Desenvolvedor Front-end apaixonado por boas interfaces ✨
 
@@ -22,24 +23,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
 <p>
   <img height='185em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerbreno&theme=midnight-purple&layout=compact&langs_count=8"/>
-  <!-- <img height="185em" src="https://github-readme-stats.vercel.app/api?username=onerbreno&show_icons=true&&count_private=true&theme=midnight-purple&hide=contribs" /> -->
-</p>
-
-## :rocket: Contatos 
-
-<p> 
-  <a href="https://instagram.com/brenonoites" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:brenodiasholanda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/breno-dias-holanda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://telegram.me/Amandakelly9" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  </a>
 </p>
