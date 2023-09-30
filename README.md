@@ -24,7 +24,7 @@
 </p>
 <p>
   <img height='205em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerbreno&theme=midnight-purple&layout=compact&langs_count=8"/>
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=onerbreno&show_icons=true&&count_private=false&theme=midnight-purple" />
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=onerbreno&show_icons=true&&count_private=true&theme=midnight-purple&hide=contribs" />
 </p>
 
 ## :rocket: Contatos 
