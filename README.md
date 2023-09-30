@@ -32,5 +32,5 @@
 </p>
 
 <p>
-  <img height='210em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerbreno&theme=midnight-purple&layout=compact&langs_count=8"/>
+  <img height='210em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerbreno&theme=midnight-purple&layout=compact&langs_count=8&locale=pt-br&card_width=350"/>
 </p>
