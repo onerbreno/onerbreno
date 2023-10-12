@@ -1,6 +1,5 @@
 
 ![Hi+there.+My+name+is+Breno!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&repeat=false&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Breno!)
--
 
 <img align="right" src="https://komarev.com/ghpvc/?username=onerbreno" alt="Breno's Profile Views" />
 
@@ -96,7 +95,8 @@
 <details>
   <summary>More GitHub stats</summary>
 
-  | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=onerbreno&theme=midnight-purple&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onerbreno&theme=midnight-purple) |
-  | ----------- | ----------- |
-  | ![Trophies](https://github-profile-trophy.vercel.app/?username=onerbreno&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=onebreno&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15) |
+  | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=onerbreno&theme=midnight-purple&ring=e73737&currStreakNum=ffffff&hide_border=true"></img> |
+  | ----------- |
+  | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onerbreno&theme=midnight_purple) |
+  | ![Trophies](https://github-profile-trophy.vercel.app/?username=onerbreno&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15) |
 </details>
