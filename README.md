@@ -1,5 +1,6 @@
 
-# ![Hi+there.+My+name+is+Breno!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&repeat=false&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Breno!)
+![Hi+there.+My+name+is+Breno!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&repeat=false&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Breno!)
+-
 
 <img align="right" src="https://komarev.com/ghpvc/?username=onerbreno" alt="Breno's Profile Views" />
 
@@ -19,10 +20,10 @@
 ## Professional Experience
   
 <a><img src="./assets/kigos.png" align="left" width="30" height="30" alt="Kigos-pic"/></a>
-&nbsp;&nbsp;[July 2023 - Present] Freelance UX Designer/Front-end Developer at Kigos Ecommerce
+[July 2023 - Present] Freelance UX Designer/Front-end Developer at Kigos Ecommerce
 
 <a href="https://www.applutz.br/"><img src="./assets/lutz.png" align="left" width="30" height="30" alt="Lutz-pic"/></a>
-&nbsp;&nbsp;[Jan 2021 - Present] Independent Software Engineer at [Lutz - Academic Management Platform](https://www.applutz.com/)
+[Jan 2021 - Present] Independent Software Engineer at [Lutz - Academic Management Platform](https://www.applutz.com/)
 
 <br>
 
@@ -94,6 +95,7 @@
 
 <details>
   <summary>More GitHub stats</summary>
+
   | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=onerbreno&theme=midnight-purple&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onerbreno&theme=midnight-purple) |
   | ----------- | ----------- |
   | ![Trophies](https://github-profile-trophy.vercel.app/?username=onerbreno&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=onebreno&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15) |
