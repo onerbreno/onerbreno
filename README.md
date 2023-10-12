@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=42&lines=Hi+there.+My+name+is+Breno!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=540&height=32&lines=Hi+there.+My+name+is+Breno!)](https://git.io/typing-svg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=onerbreno" alt="Breno's Profile Views" />
 
