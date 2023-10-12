@@ -1,6 +1,6 @@
 
 ![Hi+there.+My+name+is+Breno!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&repeat=false&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Breno!)
-
+---
 <img align="right" src="https://komarev.com/ghpvc/?username=onerbreno" alt="Breno's Profile Views" />
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&label=breno-dias-holanda)](https://www.linkedin.com/in/breno-dias-holanda/)
@@ -18,13 +18,20 @@
 
 ## Professional Experience
   
-<a><img src="./assets/kigos.png" align="left" width="30" height="30" alt="Kigos-pic"/></a>
-[July 2023 - Present] Freelance UX Designer/Front-end Developer at Kigos Ecommerce
-
-<a href="https://www.applutz.br/"><img src="./assets/lutz.png" align="left" width="30" height="30" alt="Lutz-pic"/></a>
-[Jan 2021 - Present] Independent Software Engineer at [Lutz - Academic Management Platform](https://www.applutz.com/)
+<a href="#"><img src="./assets/kigos.png" align="left" width="70" height="70" alt="Kigos-pic"/></a>
+**UX Designer and Front-end Developer** \
+Kigos · Freelance \
+<i>Jul. 2023</i> - <i>Present</i>
 
 <br>
+
+<a href="https://www.applutz.br"><img src="./assets/lutz.png" align="left" width="70" height="70" alt="Lutz-pic"/></a>
+**Software Engineer** \
+Lutz - Academic Management Platform · Independent \
+<i>Jan. 2021</i> - <i>Present</i>
+
+<br>
+
 
 <!-- <details>
   <summary>Formação acadêmica</summary>
@@ -59,7 +66,7 @@
 
 </details> -->
 
-## 🚀 Skills
+## Skills
 
 ### :wrench: Tools and environments
 
@@ -85,8 +92,8 @@
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![gcp](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![sqlserver](https://img.shields.io/badge/sqlserver-00000F?style=for-the-badge&logo=sqlserver&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -97,6 +104,6 @@
 
   | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=onerbreno&theme=midnight-purple&ring=e73737&currStreakNum=ffffff&hide_border=true"></img> |
   | ----------- |
-  | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onerbreno&theme=midnight_purple) |
+  | <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onerbreno&theme=midnight_purple"></img> |
   | ![Trophies](https://github-profile-trophy.vercel.app/?username=onerbreno&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15) |
 </details>
