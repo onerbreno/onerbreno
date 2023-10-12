@@ -1,10 +1,9 @@
-
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=540&height=32&lines=Hi+there.+My+name+is+Breno!)](https://git.io/typing-svg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=onerbreno" alt="Breno's Profile Views" />
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&label=breno-dias-holanda)](https://www.linkedin.com/in/breno-dias-holanda/)
-[![Gmail Badge](https://img.shields.io/badge/-brenodiasholanda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenodiasholanda@gmail.com)](mailto:brenodiasholanda@gmail.com)
+[![brenodiasholanda@gmail.com](https://img.shields.io/badge/-brenodiasholanda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenodiasholanda@gmail.com)](mailto:brenodiasholanda@gmail.com)
 
 - 🔥 **Front-end Developer** and **UI Designer**
 
@@ -69,7 +68,6 @@ Lutz - Academic Management Platform · Independent \
 
 ### :wrench: Tools and environments
 
-<!-- GIT -->
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
