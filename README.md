@@ -1,6 +1,6 @@
 
-![Hi+there.+My+name+is+Breno!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&repeat=false&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Breno!)
----
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=42&lines=Hi+there.+My+name+is+Breno!)](https://git.io/typing-svg)
+
 <img align="right" src="https://komarev.com/ghpvc/?username=onerbreno" alt="Breno's Profile Views" />
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&label=breno-dias-holanda)](https://www.linkedin.com/in/breno-dias-holanda/)
