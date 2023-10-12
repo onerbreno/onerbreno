@@ -30,6 +30,7 @@ Kigos · Freelance \
 Lutz - Academic Management Platform · Independent \
 <i>Jan. 2021</i> - <i>Present</i>
 
+<br>
 
 <!-- <details>
   <summary>Formação acadêmica</summary>
