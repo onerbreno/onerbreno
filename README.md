@@ -19,7 +19,7 @@
 ## Professional Experience
   
 <a href="#"><img src="./assets/kigos.png" align="left" width="70" height="70" alt="Kigos-pic"/></a>
-**UX Designer and Front-end Developer** \
+**UI Designer and Front-end Developer** \
 Kigos · Freelance \
 <i>Jul. 2023</i> - <i>Present</i>
 
