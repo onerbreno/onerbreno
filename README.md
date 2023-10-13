@@ -97,7 +97,7 @@ Lutz - Academic Management Platform · Independent \
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onerbreno&theme=midnight-purple&layout=compact&langs_count=8&card_width=350&hide_border=true)
 
 <details>
-  <summary>More GitHub stats</summary>
+  <summary>More GitHub stats...</summary>
 
   | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=onerbreno&theme=midnight-purple&ring=e73737&currStreakNum=ffffff&hide_border=true"></img> |
   | ----------- |
