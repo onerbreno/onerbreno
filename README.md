@@ -24,7 +24,7 @@ Kigos · Freelance \
 
 <br>
 
-<a href="https://www.applutz.br"><img src="./assets/lutz.png" align="left" width="70" height="70" alt="Lutz-pic"/></a>
+<a href="https://www.applutz.com"><img src="./assets/lutz.png" align="left" width="70" height="70" alt="Lutz-pic"/></a>
 **Software Engineer** \
 Lutz - Academic Management Platform · Independent \
 <i>Jan. 2021</i> - <i>Present</i>
